@@ -15,5 +15,4 @@ Ce projet est une évaluation des risques et un audit de sécurité réalisé po
 - **Audit de sécurité** : Conformité avec les réglementations et mise en œuvre des contrôles nécessaires.
 
 ## Fichier
-- [Évaluation des risques - Botium Toys (PDF)]([./Botium%20Toys%20_%20%C3%A9valuation%20des%20risques.docx.pdf](https://github.com/na-elle/Audit_de_Securite_Botium_Toys/blob/91ba1a28a59dcf6a6462e7d142562262f0b44b6d/Audit_de_Securite_Botium_Toys.pdf))
-
+-[Évaluation des risques - Botium Toys](https://github.com/na-elle/Audit_de_Securite_Botium_Toys/blob/91ba1a28a59dcf6a6462e7d142562262f0b44b6d/Audit_de_Securite_Botium_Toys.pdf)
